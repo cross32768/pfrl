@@ -1,3 +1,5 @@
+import torch
+
 import pfrl
 from pfrl.agents import iqn
 from pfrl.utils.recurrent import pack_and_forward
